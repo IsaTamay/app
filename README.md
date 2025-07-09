@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="Medidas preventivas para evitar el ciberbullying en el ámbito escolar. Información y recursos para estudiantes, docentes y padres de familia." />
-<title>Medidas Preventivas para Evitar el Ciberbullying</title>
+<title>Medidas Preventivas para Evitar el Bullying</title>
 <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/565/565547.png" type="image/png" />
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
